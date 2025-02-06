@@ -1,0 +1,7 @@
+json
+streamlit
+pandas
+pycaret.clustering
+plotly.express
+seaborn
+matplotlib.pyplot
